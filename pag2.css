@@ -1,4 +1,4 @@
-<style>
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -105,4 +105,5 @@
     h1, h2 {
       color: #c03e2f;
     }
-  </style>
+
+
